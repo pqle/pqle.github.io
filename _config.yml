@@ -228,6 +228,7 @@ exclude:
   - _pages/repositories.md # Turn off repository page
   - _pages/blog.md # Turn off blog
   - _pages/dropdown.md # Turn off dropdown menu
+  - _pages/teaching.md # Turn off teaching page
   - purgecss.config.js
   - README.md
   - readme_preview/
