@@ -222,7 +222,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  # - _pages/about_einstein.md # Turn off extra about page
+  - _pages/about_einstein.md # Turn off extra about page
   - _pages/cv.md # Turn off cv page
   - _pages/profiles.md # Turn off people page
   - _pages/repositories.md # Turn off repository page
