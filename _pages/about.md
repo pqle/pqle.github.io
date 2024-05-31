@@ -17,11 +17,12 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! Thanks for checking out my website.
 
-<form action="https://1drv.ms/w/c/2abc7184ed65f8c5/EVTFz5CeVO5KlgfDZStsYeABnUNy6sOH0rwAFrVKHohAkQ?e=wuRANp" method="get" target="_blank"><button type="submit">Click here to access my CV in a new tab.</button></form></br>
+<form action="https://1drv.ms/w/c/2abc7184ed65f8c5/EVTFz5CeVO5KlgfDZStsYeABnUNy6sOH0rwAFrVKHohAkQ?e=wuRANp" method="get" target="_blank"><button type="submit">Click here to access my CV in a new tab.</button></form>
 
-I am a 6th-year Ph.D. Candidate in Psychology at The Ohio State University. In 2017, I received a B.A. in Psychology and Interdisciplinary Social Sciences (International Studies) from SUNY Buffalo.
 
 I am interested in the psychology of how people motivate themselves and others to obtain valued long-term goals. My research examines how people modulate the range of concerns and possibilities that they account for in goal pursuit, and how this process impacts motivation. Through research, I aim to provide actionable recommendations for leaders to enhance motivation and performance.
+
+I am currently a 6th-year Ph.D. Candidate in Psychology at The Ohio State University, working with Drs. Kentaro Fujita and Lisa Libby. In 2017, I received a B.A. in Psychology and Interdisciplinary Social Sciences (International Studies) from SUNY Buffalo. 
 
 **SITE UNDER CONSTRUCTION**
 
