@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! Thanks for checking out my website.
 
-<form action="https://www.dropbox.com/scl/fi/jirog8ep0j5jo9vdt08eo/PhuongLe_CV-shared-on-lab-website.docx?rlkey=xmjtxgo7e9d00juz70peanyud&dl=0" method="get" target="_blank"><button type="submit">Click here to access my CV in a new tab.</button></form>
+<form action="https://1drv.ms/w/c/2abc7184ed65f8c5/EVTFz5CeVO5KlgfDZStsYeABnUNy6sOH0rwAFrVKHohAkQ?e=wuRANp" method="get" target="_blank"><button type="submit">Click here to access my CV in a new tab.</button></form></br>
 
 I am a 6th-year Ph.D. Candidate in Psychology at The Ohio State University. In 2017, I received a B.A. in Psychology and Interdisciplinary Social Sciences (International Studies) from SUNY Buffalo.
 
