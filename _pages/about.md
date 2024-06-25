@@ -24,8 +24,6 @@ I am interested in the psychology of how people motivate themselves and others t
 
 I am currently a 6th-year Ph.D. Candidate in Psychology at The Ohio State University, working with Drs. Kentaro Fujita and Lisa Libby. In 2017, I received a B.A. in Psychology and Interdisciplinary Social Sciences (International Studies) from SUNY Buffalo. 
 
-**SITE UNDER CONSTRUCTION**
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
