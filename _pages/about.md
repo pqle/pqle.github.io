@@ -8,17 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: <form action="https://1drv.ms/w/c/2abc7184ed65f8c5/EVTFz5CeVO5KlgfDZStsYeABnUNy6sOH0rwAFrVKHohAkQ?e=wuRANp" method="get" target="_blank"><button type="submit">Click here to access my CV in a new tab.</button></form>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! Thanks for checking out my website.
+_Phuong: /fʊəŋ/ pronounced almost like "foo-uhng" but said quickly as one syllable_
+_Le: /lɛ/ pronounced like 'le' in "lemon"_
+[hear my name](https://www.name-coach.com/phuong-le-2af2d4be-767e-4d79-a592-98b9fa0ded07)
 
-<form action="https://1drv.ms/w/c/2abc7184ed65f8c5/EVTFz5CeVO5KlgfDZStsYeABnUNy6sOH0rwAFrVKHohAkQ?e=wuRANp" method="get" target="_blank"><button type="submit">Click here to access my CV in a new tab.</button></form>
-&nbsp;
+Hi there! Thanks for checking out my website.
 
 I am interested in the psychology of how people motivate themselves and others to obtain valued long-term goals. My research examines how people modulate the range of concerns and possibilities that they account for in goal pursuit, and how this process impacts motivation. Through research, I aim to provide actionable recommendations for leaders to enhance motivation and performance.
 
