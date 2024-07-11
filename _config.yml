@@ -6,15 +6,15 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Phuong
 middle_name: Q.
 last_name: Le
-email: le.451@osu.edu
+email: le.451@buckeyemail.osu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Phuong's homepage. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌟 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://pqle.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -102,12 +102,11 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: @PhQLe # your X handle
+x_username: PhQLe # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  Feel free to shoot me an email.
+contact_note: > #
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -341,7 +340,7 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
-    html,
+    #html,
     pdf,
     poster,
     preview,
@@ -349,7 +348,7 @@ filtered_bibtex_keywords:
     slides,
     supp,
     video,
-    website,
+    #website,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
