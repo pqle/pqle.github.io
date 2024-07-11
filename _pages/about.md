@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! Thanks for checking out my website.
 
-I am interested in the psychology of how people motivate themselves and others to obtain valued long-term goals. My research examines how people modulate the range of concerns and possibilities that they account for in goal pursuit, and how this process impacts motivation. Through research, I aim to provide actionable recommendations for leaders to enhance motivation and performance.
-
 I am currently a 6th-year Ph.D. Candidate in Psychology at The Ohio State University, working with Drs. Kentaro Fujita and Lisa Libby. In 2017, I received a B.A. in Psychology and Interdisciplinary Social Sciences (International Studies) from SUNY Buffalo. 
+
+I am interested in the psychology of how people motivate themselves and others to obtain valued long-term goals. My research examines how people modulate the range of concerns and possibilities that they account for in goal pursuit, and how this process impacts motivation. Through research, I aim to provide actionable recommendations for leaders to enhance motivation and performance.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
