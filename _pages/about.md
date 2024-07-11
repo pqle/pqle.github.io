@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-_<span style="font-size:0.8em">Phuong: /fʊəŋ/ pronounced almost like "foo-uhng" but said quickly as one syllable</span>_\
-_<span style="font-size:0.8em">Le: /lɛ/ pronounced like 'le' in "lemon"</span>_\
-<span style="font-size:0.8em">[hear my name](https://www.name-coach.com/phuong-le-2af2d4be-767e-4d79-a592-98b9fa0ded07)</span>
+_<span style="font-size:0.8rem">Phuong: /fʊəŋ/ pronounced almost like "foo-uhng" but said quickly as one syllable</span>_\
+_<span style="font-size:0.8rem">Le: /lɛ/ pronounced like 'le' in "lemon"</span>_\
+<span style="font-size:0.8rem">[hear my name](https://www.name-coach.com/phuong-le-2af2d4be-767e-4d79-a592-98b9fa0ded07)</span>
 
 Hi there! Thanks for checking out my website.
 
