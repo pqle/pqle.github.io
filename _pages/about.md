@@ -17,9 +17,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! Thanks for checking out my website.
 
-I am currently a 6th-year Ph.D. Candidate in Psychology at The Ohio State University, working with Drs. [Kentaro Fujita](https://psychology.osu.edu/people/fujita.5) and [Lisa Libby](https://psychology.osu.edu/people/libby.10). I will soon join Frank Batten School of Leadership and Public Policy as a postdoctoral researcher working with Dr. [Abigail Scholer](https://batten.virginia.edu/people/abigail-scholer).
+I am a social psychologist that specializes in how people motivate themselves and others to obtain valued long-term goals. My research focuses on people’s impressive ability to broaden and narrow the range of concerns and possibilities that they account for in goal pursuit, and how this process impacts motivation. Much of my work adopts a social cognitive approach, and I often work with advanced quantitative methodologies (e.g., mixed-effects modeling, natural language processing, computational modeling). My goal is to help people live up to their goals and provide actionable recommendations for leaders and policymakers to enhance motivation and performance. 
 
-I am interested in the psychology of how people motivate themselves and others to obtain valued long-term goals. My research focuses on people's impressive ability to broaden and narrow the range of concerns and possibilities that they account for in goal pursuit, and how this process impacts motivation. My goal is to help people live up to their goals and provide actionable recommendations for leaders and policymakers to enhance motivation and performance.
+I am a postdoctoral researcher at the Frank Batten School of Leadership and Public Policy at University of Virginia, working with Dr. [Abigail Scholer](https://batten.virginia.edu/people/abigail-scholer). I completed my M.A. and Ph.D. work under the mentorship of Drs. [Kentaro Fujita](https://psychology.osu.edu/people/fujita.5) and [Lisa Libby](https://psychology.osu.edu/people/libby.10) at The Ohio State University.
 
 ---
 <a href="https://www.name-coach.com/phuong-le-2af2d4be-767e-4d79-a592-98b9fa0ded07" target="_blank"><img src="assets/img/NameCoach-speaker-with-text.png" height="50px"/></a>  
