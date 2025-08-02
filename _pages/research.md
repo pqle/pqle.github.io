@@ -4,7 +4,7 @@ permalink: /research/
 title:  research
 description:
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 People want to lead healthy, fulfilling lives. Thus, it is unsurprising that myriad policies and public recommendations (e.g., federal dietary guidelines, policies to regulate smoking) aim to promote behaviors that benefit people in the long run. Nevertheless, many struggle with behavioral change and suffer from preventable deaths (e.g., poor diet and tobacco use, Mokdad et al., 2004). To address these issues, my work centers the psychology of how people motivate themselves and others to obtain valued long-term goals. Specifically, I have focused on three questions:
