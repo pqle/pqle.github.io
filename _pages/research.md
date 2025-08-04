@@ -33,7 +33,6 @@ Goal pursuit requires people to flexibly modulate their regulatory scope (i.e., 
 ### Relevant papers
 - **Le, P.Q.**, Nguyen, T., Scholer, A.A., & Fujita, K. (under review). Beliefs about using construal level to modulate regulatory scope.
 - **Le, P.Q.**, Stanczak, O.J., Hildebrand, L.K., Wallace, L.E., Berkman, E.T., & Fujita, K. (under review). A case study for optimizing research paradigms: The within-subjects effect of temporal distance on language abstraction. Preprint: [https://osf.io/9uyh8_v1](https://osf.io/9uyh8_v1)
-- **Le, P.Q.**, & Fujita, K. (2025). Matching construal level to regulatory scope in persuasion. In J.D. Teeny, A. Luttrell, and R.E. Petty (Eds.), _The Handbook of Personalized Persuasion: Theory and Application_. Taylor & Francis, Routledge.
 - Fujita, K., **Le. P.Q.**, Scholer, A.A., & Miele, D.B. (2024). The metamotivation approach: Insights into the regulation of motivation and beyond. _Social and Personality Psychology Compass, 18_(2), Article e12937. [https://doi.org/10.1111/spc3.12937](https://doi.org/10.1111/spc3.12937)
 - **Le, P.Q.**, Saltsman, T.L., Seery, M.D., Ward, D., Kondrak, C.L., & Lamarche, V.M. (2019). When a smaller self means manageable obstacles: Spontaneous self-distancing predicts divergent effects of awe during a subsequent performance stressor. _Journal of Experimental Social Psychology, 80_, 59-66. [https://doi.org/10.1016/j.jesp.2018.07.010](https://doi.org/10.1016/j.jesp.2018.07.010)
 
@@ -42,6 +41,7 @@ Goal pursuit requires people to flexibly modulate their regulatory scope (i.e., 
 I am working on translating behavioral science to real-world interventions. My colleagues and I are piloting an intervention that aims to help farmers align their conservation values with sustainable farming practices (e.g., cover-cropping). I have also helped to develop a novel text-messaging smoking cessation protocol for low SES smokers—a group that is generally non-responsive to most treatments. Results revealed that smokers react more positively to our motivational messages that expand scope (i.e., connect in-the-moment cigarette cravings to broader values and goals) relative to those that prompt emotion reappraisal (i.e., mentally transforming smoking cues to “cool” associated cravings), and prefer to receive the former as a cessation intervention.
 
 ### Relevant papers
+- **Le, P.Q.**, & Fujita, K. (2025). Matching construal level to regulatory scope in persuasion. In J.D. Teeny, A. Luttrell, and R.E. Petty (Eds.), _The Handbook of Personalized Persuasion: Theory and Application_. Taylor & Francis, Routledge.
 - **Le, P.Q.**, Libby, L.K., Stewart-Hill, S.A., Ivy, V., & Eibach, R.P. (in prep). Functions of storyteller’s mental visual perspective in social communication.
 - Smith, B.J., **Le, P.Q.**, Nguyen, T., Wilson, S., Cheung, B., Fujita, K., & Berkman, E.T. (in prep). Motivational messages to quit smoking: Comparing high-level construal and downregulation strategies.
 - Dillman-Hasso, N., Wilson, R., Shaffer-Morrison, C.D., Chestnut, G., **Le, P.Q.**, & Fujita, K. (in progress). Using motivation science to promote conservation practices within farmers in Ohio.
