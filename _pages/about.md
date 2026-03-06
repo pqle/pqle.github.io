@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <form action="https://docs.google.com/document/d/1OUjwD68m509l97RdLbUavlmQoE_ZzUq4/edit?usp=sharing&ouid=104379142433105901009&rtpof=true&sd=true" method="get" target="_blank"><button type="submit">view my CV in a new tab</button></form>
-
+  more_info: <form action="assets/pdf/PhuongLe_CV%20(shared%20on%20website).pdf" method="get" target="_blank"><button type="submit">View my CV ↗</button></form>
+  
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
