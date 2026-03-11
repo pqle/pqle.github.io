@@ -10,8 +10,6 @@ nav_order: 6
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% include bib_search.liquid %}
-
 {% bibliography %}
 
 </div>
