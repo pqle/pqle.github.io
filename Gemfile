@@ -1,4 +1,11 @@
 source 'https://rubygems.org'
+# Ruby 4.0 removed these from the standard library; must be explicit dependencies
+gem 'logger'
+gem 'observer'
+gem 'ostruct'
+gem 'base64'
+gem 'bigdecimal'
+gem 'mutex_m'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
