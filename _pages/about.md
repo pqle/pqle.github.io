@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <form action="assets/pdf/PhuongLe_CV%20(shared%20on%20website).pdf" method="get" target="_blank"><button type="submit">View my CV ↗</button></form>
+  more_info: <form action="assets/pdf/PhuongLe_CV%20(website).pdf" method="get" target="_blank"><button type="submit">View my CV ↗</button></form>
   
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
