@@ -31,9 +31,11 @@ Only four pages are built and visible (the rest are excluded in `_config.yml`):
 | Homepage | `_pages/about.md` | Bio, profile photo, social links |
 | Research | `_pages/research.md` | Research themes, paper summaries |
 | Publications | `_pages/publications.md` + `_bibliography/papers.bib` | BibTeX-driven via jekyll-scholar |
-| News | `_pages/news.md` + `_news/*.md` | News announcements (currently disabled on homepage) |
+| News | `_pages/news.md` + `_news/*.md` | Kept for later: the `_news/` folder is empty, so the page shows "No news so far..." Add `_news/<name>.md` items to use it. Disabled on homepage |
 
-Pages that exist in `_pages/` but are deliberately excluded from the build: `blog.md`, `cv.md`, `projects.md`, `profiles.md`, `repositories.md`, `teaching.md`.
+`_pages/teaching.md` is kept for later but deliberately excluded from the build (remove its line under `exclude:` in `_config.yml` to publish it). `_pages/404.md` is the error page.
+
+The al-folio demo content (blog posts, projects, extra pages, demo assets), docs, Docker build files, extra CI workflows, and Prettier tooling were removed from the repo; recover anything from git history if needed. Theme includes/layouts/plugins for those features (e.g., `_layouts/post.liquid`, `_includes/cv/`) are still present but unused.
 
 ## Content editing workflows
 
@@ -62,7 +64,3 @@ Pages that exist in `_pages/` but are deliberately excluded from the build: `blo
 - `_plugins/` contains custom Ruby plugins — notably `google-scholar-citations.rb` (fetches citation counts) and `hide-custom-bibtex.rb` (strips internal-only fields from rendered output)
 - Google Analytics ID: `G-M91TL1BZB0` (set in `_config.yml`)
 - `assets/json/resume.json` is loaded at build time via `jekyll-get-json` — update it if CV data changes
-
-## Linting
-
-Prettier is configured for Liquid/HTML/Markdown/YAML via a pre-commit hook (`.pre-commit-config.yaml`) and a CI workflow. Config is in `.prettierrc` (printWidth 150, uses `@shopify/prettier-plugin-liquid`). To run manually: `npx prettier --write .`
