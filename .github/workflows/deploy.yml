@@ -65,7 +65,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
-          bundler-cache: true
+      - name: Install gems 💎
+        # Gemfile.lock was generated in Docker (x86_64-linux-gnu); add the runner's platform
+        run: |
+          bundle config set --local frozen false
+          bundle lock --add-platform x86_64-linux
+          bundle install --jobs 4 --retry 3
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
