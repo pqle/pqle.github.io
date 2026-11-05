@@ -21,7 +21,7 @@ My work challenges this status quo. A key challenge of self-control in everyday 
 ### Relevant papers
 - **Le, P.Q.**, Scholer, A.A., & Fujita, K. (2024). The role of conflict representation in abstinence and moderation in self-control. _Journal of Personality and Social Psychology_. [[link]](https://doi.org/10.1037/pspa0000381) <a href="/assets/pdf/Le_etal(2024).pdf" target="_blank" rel="noopener noreferrer">[pdf]</a>
 - Fujita, K., Lapka, S.P., & **Le, P.Q.** (in press) Lay beliefs about willpower and abstinence in self-control. In E. R. Hirt (Ed.), _Handbook of Motivation and Social Psychology_. Elgar Publishing.
-- **Le, P.Q.**, Fujita K., Lile, J., & Scholer, A.A. (under review). A trade-off framework of abstinence and moderation in self-control. _Current Directions in Psychological Science_.
+- **Le, P.Q.**, Fujita, K., Jia, L., & Scholer, A.A. (in press). Trade-offs of abstinence and moderation in self-control. _Current Directions in Psychological Science_.
 - Lapka, S.P., **Le, P.Q.**, Xu, M., & Fujita, K. (in prep). Lay people conceptualize self-control as abstinence. 
 - **Le, P.Q.**, Fujita, K., Berkman, E.T., & Scholer, A.A. (in prep). Goal moralization promotes preference for abstinence in self-control and public policy.
 
