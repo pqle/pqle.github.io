@@ -207,16 +207,11 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - bin/
   - CLAUDE.md
-  - Dockerfile
   - docker-compose.yml
-  - docker-compose-slim.yml
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - package.json
-  - package-lock.json
   - _pages/teaching.md # Teaching page kept for later; remove this line to publish it
   - purgecss.config.js
   - README.md
