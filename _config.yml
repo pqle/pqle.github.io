@@ -209,23 +209,17 @@ include: ["_pages"]
 exclude:
   - bin/
   - CLAUDE.md
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
   - _pages/teaching.md # Teaching page kept for later; remove this line to publish it
   - purgecss.config.js
   - README.md
-  - readme_preview/
   - vendor
 keep_files:
   - CNAME
