@@ -1,14 +1,8 @@
 name: Prettier code formatter
 
+# Manual-run only (Actions tab -> Run workflow). Disabled on push/PR because al-folio's template files fail the check.
 on:
-  pull_request:
-    branches:
-      - master
-      - main
-  push:
-    branches:
-      - master
-      - main
+  workflow_dispatch:
 
 jobs:
   check:
