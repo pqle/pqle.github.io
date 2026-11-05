@@ -39,9 +39,18 @@ Pages that exist in `_pages/` but are deliberately excluded from the build: `blo
 
 **Adding/updating a publication:** Edit `_bibliography/papers.bib`. The custom BibTeX fields `pdf`, `website`, and `abstract` render as buttons/modals on the publications page. Co-author profile links are configured in `_data/coauthors.yml`.
 
+**Citation checklist (new or changed paper):** A paper can live in up to three places; check each one.
+1. `_bibliography/papers.bib` (Publications page). Entries are appended in chronological order. Key format is `lastname_keyword_year` (e.g., `le_tradeoffs_2026`). Write authors as `Last, First and Last, First` with full first names; if a first name is unknown, use initials as given and ask the user rather than guessing. Include `abstract` when supplied (use real curly quotes/em dashes, no escaping needed), plus `doi`/`website`/`pdf` when available. The file uses CRLF line endings, so keep them consistent when editing from PowerShell.
+2. `_pages/research.md` (Research page), only if the paper belongs to one of the research themes. Follow the simplified citation format (see the citation-formatting memory): authors, year or status, sentence-case title, journal; no volume/issue/pages.
+3. The paper's PDF, if any, goes in `assets/pdf/` (name pattern `Le_etal(2024).pdf`).
+
+**In-press papers:** The Publications page shows an "In press" section above the year groups (`_pages/publications.md` runs two `{% bibliography %}` queries). An entry appears there only if it has `inpress = {true}` in papers.bib. For in-press papers, add that field, put `(in press)` in the `journal` (or `booktitle` for chapters) field, and use the expected publication year. Once the paper is published, delete the `inpress` line, remove "(in press)", and add volume/pages/doi as available, so it falls into its year group. Also update its research.md line from "in press"/"under review"/"in prep" to the new status. Any other custom field (`inpress`) is safe: `hide-custom-bibtex.rb` only affects the BibTeX modal.
+
+**Verifying in the preview:** After editing, wait about 10-20 seconds for Jekyll to regenerate, then fetch `http://localhost:8080/publications/` and `/research/` and confirm the entry, author names, and section placement render correctly before committing.
+
 **Updating profile photo:** Replace `assets/img/prof_pic.jpg`. ImageMagick auto-generates WebP variants at build time.
 
-**Adding PDFs:** Drop them in `assets/pdf/`. The CV PDF filename is `PhuongLe_CV (shared on website).pdf`.
+**Adding PDFs:** Drop them in `assets/pdf/`. The CV PDF filename is `PhuongLe_CV (website).pdf` (the homepage button links to this exact name, so replace the file in place when the CV is updated).
 
 **Site-wide settings** (name, email, social accounts, analytics, page visibility): `_config.yml`.
 
